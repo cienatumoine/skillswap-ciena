@@ -1,0 +1,66 @@
+/* Used AI to help with basic styling and reviewed the code for Skill Swap */
+
+/* Basic page styling */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.6;
+  color: #243047;
+  background-color: #f5f7fb;
+}
+
+/* Header */
+header {
+  background-color: #243b64;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+header h1 {
+  margin: 0;
+}
+
+/* Main homepage intro */
+.hero {
+  background-color: #dfe9fb;
+  text-align: center;
+  padding: 50px 20px;
+}
+
+.hero h2 {
+  font-size: 2rem;
+  margin-bottom: 10px;
+}
+
+.hero p {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+/* Skill offerings section */
+#skills {
+  padding: 30px 20px;
+  text-align: center;
+  min-height: 180px;
+}
+
+#skills h2 {
+  color: #243b64;
+}
+
+/* Footer */
+footer {
+  background-color: #243b64;
+  color: white;
+  text-align: center;
+  padding: 15px;
+}
+
+footer p {
+  margin: 0;
+}
